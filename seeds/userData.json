@@ -1,0 +1,18 @@
+[
+  {
+    "email": "Sal@gmail.com",
+    "password": "password12345",
+    "zipcode": "80126"
+  },
+  {
+    "email": "Lernantino@gmail.com",
+    "password": "password12345",
+    "zipcode": "80110"
+  },
+  {
+    "email": "Amiko@gmail.com",
+    "password": "password12345",
+    "zipcode": "80123"
+  }
+]
+
